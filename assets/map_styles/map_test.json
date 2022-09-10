@@ -1,0 +1,177 @@
+{
+    "html_attributions" : [],
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 36.2868678,
+                "lng" : 115.1541673
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 36.28821077989272,
+                   "lng" : 115.1555721298927
+                },
+                "southwest" : {
+                   "lat" : 36.28551112010727,
+                   "lng" : 115.1528724701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Daming Veteran Cadre Activities Centre",
+          "place_id" : "ChIJnSsAMEbs3DURGfX6m0vyR4c",
+          "plus_code" : {
+             "compound_code" : "75P3+PM Daming, Handan, Hebei, China",
+             "global_code" : "8P8Q75P3+PM"
+          },
+          "rating" : 0,
+          "reference" : "ChIJnSsAMEbs3DURGfX6m0vyR4c",
+          "scope" : "GOOGLE",
+          "types" : [ "casino", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Handan, Daming, 万大街"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 36.0721825,
+                "lng" : 115.1995231
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 36.07354947989272,
+                   "lng" : 115.2008772798927
+                },
+                "southwest" : {
+                   "lat" : 36.07084982010728,
+                   "lng" : 115.1981776201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Shenhua Club",
+          "place_id" : "ChIJLfqyuUiX3DURyKeWkjThOA4",
+          "plus_code" : {
+             "compound_code" : "35CX+VR Nanle, Puyang, Henan, China",
+             "global_code" : "8P8Q35CX+VR"
+          },
+          "rating" : 0,
+          "reference" : "ChIJLfqyuUiX3DURyKeWkjThOA4",
+          "scope" : "GOOGLE",
+          "types" : [ "casino", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Puyang, Nanle, 昌州东路"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 36.2670981,
+                "lng" : 115.1750592
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 36.26845202989271,
+                   "lng" : 115.1763710298927
+                },
+                "southwest" : {
+                   "lat" : 36.26575237010727,
+                   "lng" : 115.1736713701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Xinsheng Service Area",
+          "place_id" : "ChIJrbop5WLs3DURvX8f2ODKeHg",
+          "plus_code" : {
+             "compound_code" : "758G+R2 Daming, Handan, Hebei, China",
+             "global_code" : "8P8Q758G+R2"
+          },
+          "rating" : 0,
+          "reference" : "ChIJrbop5WLs3DURvX8f2ODKeHg",
+          "scope" : "GOOGLE",
+          "types" : [ "casino", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Handan, Daming, 五得利街"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 36.2874134,
+                "lng" : 115.1375811
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 36.28872797989272,
+                   "lng" : 115.1389122798927
+                },
+                "southwest" : {
+                   "lat" : 36.28602832010728,
+                   "lng" : 115.1362126201073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Xindongfang Business Clubhouse",
+          "place_id" : "ChIJT3vKl7Pt3DURu0eNrj_BxLQ",
+          "plus_code" : {
+             "compound_code" : "74PQ+X2 Daming, Handan, Hebei, China",
+             "global_code" : "8P8Q74PQ+X2"
+          },
+          "rating" : 0,
+          "reference" : "ChIJT3vKl7Pt3DURu0eNrj_BxLQ",
+          "scope" : "GOOGLE",
+          "types" : [ "casino", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Handan, Daming, 大名府路"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 36.2900834,
+                "lng" : 115.1784132
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 36.29148057989273,
+                   "lng" : 115.1797701298927
+                },
+                "southwest" : {
+                   "lat" : 36.28878092010728,
+                   "lng" : 115.1770704701073
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Jingangwan Leisure Square",
+          "place_id" : "ChIJOzqQDA7s3DURTTrhgj1WnB8",
+          "plus_code" : {
+             "compound_code" : "75RH+29 Daming, Handan, Hebei, China",
+             "global_code" : "8P8Q75RH+29"
+          },
+          "rating" : 0,
+          "reference" : "ChIJOzqQDA7s3DURTTrhgj1WnB8",
+          "scope" : "GOOGLE",
+          "types" : [ "casino", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0,
+          "vicinity" : "Handan, Daming, 天雄路"
+       }
+    ],
+    "status" : "OK"
+ }
+ 

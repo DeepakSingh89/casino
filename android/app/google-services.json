@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346219710312",
+    "project_id": "casino-table-report",
+    "storage_bucket": "casino-table-report.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346219710312:android:79961a14090b80078578dd",
+        "android_client_info": {
+          "package_name": "com.app.casino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346219710312-huvqh826c7tm2joc6dgtg7d0pornpqm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1WhOycVC6_2d28IBs9-R6BzykKZxAeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346219710312-huvqh826c7tm2joc6dgtg7d0pornpqm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
